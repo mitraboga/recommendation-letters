@@ -1,4 +1,11 @@
 # Recommendation Letters
+
+<p align="center">
+  <a href="https://mitraboga.github.io/recommendation-letters/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/GITAM_Header.gif" width="95%" alt="GITAM Logo Header Preview"/>
+  </a>
+</p>
+
 A structured compilation of all my recommendation and testimonial letters from my University Professors!
 
 ---
