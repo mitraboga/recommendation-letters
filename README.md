@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<h2 align="center">Recommendation Letters</h2>
-
-<p align="center">A structured compilation of all my recommendations and testimonial letters from my University Professors!</p>
+<p align="center">A structured compilation of all my recommendation letters and testimonial letters from my University Professors!</p>
 
 ---
 
