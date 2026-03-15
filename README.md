@@ -1,6 +1,8 @@
 <h1 align="center">Recommendation Letters</h1>
 
-These Recommendation Letters were hard-earned by building and maintaining a rapport with my faculty and actively participating in class.
+<p align="center">
+These Recommendation Letters were hard-earned by building and maintaining a solid rapport with my faculty and actively participating in class discussions and providing impactful insights.
+</p>
 
 <p align="center">
   <img src="POR TFO LIO.png" alt="Portfolio" width="800">
